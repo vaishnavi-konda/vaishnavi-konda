@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-✨I’m currently learning Data Structures using C++.
+✨I’m currently working on MERN stack development.
